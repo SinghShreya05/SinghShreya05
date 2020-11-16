@@ -23,11 +23,11 @@ Hi, I'm [Shreya Singh](https://www.linkedin.com/in/shreya-singh-83b9561a1), Data
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently working on a real time project on retail commodities; 
+- 🌱 I'm pursuing my undergraduation from BIT Mesra; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@ShreyaSingh](https://discord.gg/FfHjHH9VYc);
 
-<br>
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
