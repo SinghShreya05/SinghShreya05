@@ -1,5 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/shreya">
+<a href="https://discord.gg/pypHh5pCRz">
   <img align="left" alt="Shreya's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://twitter.com/regulamahila?s=08">
@@ -16,17 +16,16 @@
 
 <br />
 
-Hi, I'm [Shreya Singh](https://www.linkedin.com/in/shreya-singh-83b9561a1), 🚀 from India. I had developed a knack for Machine Learning, Data Science and Natural Language Processing at an early age, and have taken various initiatives throughout my academic life to pursue the same. Currently, I'm member of a community driven program WiCDS and Coordinator in [SDS](https://sdsbitmesra.in/index.html)
-Beside's programming, I enjoy playing sports and traveling.
+Hi, I'm [Shreya Singh](https://www.linkedin.com/in/shreya-singh-83b9561a1), 🚀 from India. I had developed a knack for Machine Learning, Data Science and Natural Language Processing at an early age, and have taken various initiatives throughout my academic life to pursue the same. Currently, I've been working on a real time project in [IKSHAN](https://www.linkedin.com/company/ikshan/?originalSubdomain=in) I'm member of a community driven program WiCDS and Coordinator in [SDS](https://sdsbitmesra.in/index.html) Beside's programming, I enjoy playing sports and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Deep Learning; 
+- 🌱 I’m currently learning Data Structures in C++; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@ShreyaSingh](shreya.out@gmail.com);
+- 📫 How to reach me: [@ShreyaSingh](https://discord.gg/pypHh5pCRz);
 - 📝[Resume](https://drive.google.com/file/d/19rAui9IKz30yN3RWM0CMEQIrrez_QMsb/view?usp=sharing)
 
 **Languages and Tools:**  
