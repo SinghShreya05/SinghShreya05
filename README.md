@@ -16,7 +16,7 @@
 <br>
 <br />
 
-Hi, I'm [Shreya Singh](https://www.linkedin.com/in/shreya-singh-83b9561a1), Data Science, Machine Learning, DSA and NLP enthusiast 🚀 from India. I'm member of a community driven program WiCDS and Coordinator in [Society for Data Science](https://sdsbitmesra.in/index.html). Beside's programming, I enjoy playing sports and traveling.
+Hi, I'm [Shreya Singh](https://www.linkedin.com/in/shreya-singh-83b9561a1), Data Science, Machine Learning, DSA and NLP enthusiast 🚀 from India. I'm Open Source Developer, mentor at LGMSOC-21 open source contribution program, member of a community driven program WiCDS and Coordinator in [Society for Data Science](https://sdsbitmesra.in/teams.html). Beside's programming, I enjoy sharing memes and playing Basketball.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
@@ -25,7 +25,7 @@ Hi, I'm [Shreya Singh](https://www.linkedin.com/in/shreya-singh-83b9561a1), Data
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I'm pursuing my undergraduation from BIT Mesra; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@ShreyaSingh](https://discord.gg/FfHjHH9VYc);
+- 📫 How to reach me: [@ShreyaSingh](https://www.linkedin.com/in/shreya-singh-83b9561a1);
 
 
 **Languages and Tools:**  
