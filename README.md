@@ -16,7 +16,7 @@
 <br>
 <br />
 
-Hi, I'm [Shreya Singh](https://www.linkedin.com/in/shreya-singh-83b9561a1), Data Science, Machine Learning, DSA and NLP enthusiast 🚀 from India. I'm Open Source Developer, mentor at LGM-SOC21 open source contribution program, member of a community driven program WiCDS and Coordinator in [Society for Data Science](https://sdsbitmesra.in/teams.html). Beside's programming, I enjoy sharing memes and playing Basketball.
+Hi, I'm [Shreya Singh](https://www.linkedin.com/in/shreya-singh-83b9561a1), Data Science, Machine Learning, DSA and NLP enthusiast 🚀 from India. I'm Open Source Developer, mentor at LGM-SOC21 Open Source Contribution Program and HackTheMountains, member of a community driven program WiCDS and Coordinator in [Society for Data Science](https://sdsbitmesra.in/teams.html). Beside's programming, I enjoy sharing memes and playing Basketball.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
