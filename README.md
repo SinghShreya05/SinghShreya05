@@ -1,5 +1,5 @@
 ### Hey Folks!!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![](https://komarev.com/ghpvc/?username=SinghShreya05)
+![](https://komarev.com/ghpvc/?username=SinghShreya05&color=green)
 <a href="https://discord.gg/FfHjHH9VYc">
   <img align="left" alt="Shreya's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
@@ -41,5 +41,5 @@ Hi, I'm [Shreya Singh](https://www.linkedin.com/in/shreya-singh-83b9561a1), Data
 <br>
 <br />
 
-  
-[![Shreya's github stats](https://github-readme-stats.vercel.app/api?username=SinghShreya05)](https://github.com/SinghShreya05/SinghShreya05/github-readme-stats)
+![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinghShreya05&count_private=true&theme=radical) 
+
