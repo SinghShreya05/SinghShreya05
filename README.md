@@ -1,4 +1,4 @@
-### Hey Folks!!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey Folks!!!! <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 ![](https://komarev.com/ghpvc/?username=SinghShreya05&color=green)
 <a href="https://discord.gg/FfHjHH9VYc">
   <img align="left" alt="Shreya's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
@@ -13,15 +13,15 @@
   <img align="left" alt="Shreya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-
-<br>
+<h3 align="center">Machine Learning | Natural Language Processing | Computer Vision | Deep Learning | Data Science</h3>
 <br />
 
-Hi, I'm [Shreya Singh](https://www.linkedin.com/in/shreya-singh-83b9561a1), Data Science, Machine Learning, DSA and NLP enthusiast 🚀 from India. I'm Open Source Developer, mentor at LGM-SOC21 Open Source Contribution Program and HackTheMountains, member of a community driven program WiCDS and Coordinator in [Society for Data Science](https://sdsbitmesra.in/teams.html). Beside's programming, I enjoy sharing memes and playing Basketball.
+Hi, I'm [Shreya Singh](https://www.linkedin.com/in/shreya-singh-83b9561a1) an Open Source Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> mentor at LGM-SOC21 Open Source Contribution Program and HackTheMountains, member of a community driven program WiCDS and Coordinator in [Society for Data Science](https://sdsbitmesra.in/teams.html). Beside's programming, I enjoy sharing memes and playing Basketball.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="200" />
- 
-## Talking about Personal Stuffs:
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs***
+<p align="left">
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I'm pursuing my undergraduation from BIT Mesra; 
