@@ -31,19 +31,22 @@ Hi, I'm [Shreya Singh](https://www.linkedin.com/in/shreya-singh-83b9561a1) an Op
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools***
 <p align="left">
   
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"></code>
-  <code><img height="50" src="https://github.com/jmnote/z-icons/blob/master/svg/c.svg"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/173px-Tensorflow_logo.svg.png"> </code>
-  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png"></code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
+  <code><img height="50" src="https://iconape.com/wp-content/files/wd/352572/svg/352572.svg"></code><code> 
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"> </code>
+  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png"></code>
+  
+  
   <code> <img height="50" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg"> </code>
+  <code> <img height="50" src="https://cdn.iconscout.com/icon/free/png-512/git-1-226092.png"> </code>
+  <code> <img height="50" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png"> </code>
   <hr>
 
 
- ## Contributions: 
+  ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />  Contributions: 
   
 <br>
 <br />
