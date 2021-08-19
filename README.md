@@ -47,9 +47,13 @@ Hi, I'm [Shreya Singh](https://www.linkedin.com/in/shreya-singh-83b9561a1) an Op
 
 
   ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />  Contributions: 
-  
+
 <br>
 <br />
 
 ![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinghShreya05&count_private=true&theme=radical) 
 
+  </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SinghShreya05&layout=compact" />
+</p>
