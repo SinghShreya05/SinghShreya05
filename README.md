@@ -16,7 +16,9 @@
 <h3 align="center">Machine Learning | Natural Language Processing | Computer Vision | Deep Learning | Data Science</h3>
 <br />
 
-Hi, I'm [Shreya Singh](https://www.linkedin.com/in/shreya-singh-83b9561a1) an Open Source Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> mentor at LGM-SOC21 Open Source Contribution Program and HackTheMountains, member of a community driven program WiCDS and Coordinator in [Society for Data Science](https://sdsbitmesra.in/teams.html). Beside's programming, I enjoy sharing memes and playing Basketball.
+![Shreya's github activity graph](https://activity-graph.herokuapp.com/graph?username=SinghShreya05&theme=dracula)
+
+I'm [Shreya Singh](https://www.linkedin.com/in/shreya-singh-83b9561a1), I love to contribute to Open-Source projects</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> participates in hackathons, mentor at LGM-SOC21, HackTheMountains, member Women in Coding and DataScience and VicePresident of [Society for Data Science](https://sdsbitmesra.in/teams.html). Beside's programming, I enjoy sharing memes and playing Basketball. 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="200" />
 
@@ -54,6 +56,6 @@ Hi, I'm [Shreya Singh](https://www.linkedin.com/in/shreya-singh-83b9561a1) an Op
 ![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinghShreya05&count_private=true&theme=radical) 
 
   </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SinghShreya05&layout=compact" />
+
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=SinghShreya05&count_private=true&theme=radical" alt="SinghShreya05" >
 </p>
