@@ -77,14 +77,13 @@ I'm [Shreya Singh](https://www.linkedin.com/in/shreya-singh-83b9561a1), I love t
 
 - 🔭 I’m currently working on [𝐅𝐚𝐜𝐞 𝐫𝐞𝐜𝐨𝐠𝐢𝐧𝐚𝐭𝐢𝐨𝐧 𝐟𝐨𝐫 𝐭𝐫𝐚𝐧𝐬𝐚𝐜𝐭𝐢𝐨𝐧](https://github.com/SinghShreya05/)
 
-- 🌱 I’m currently learning ** REST APIs **
+- 🌱 I’m currently learning **Stable Diffusion**
 <!-- - 👯 I’m looking to collaborate on **𝑭𝒂𝒄𝒆 𝒓𝒆𝒄𝒐𝒈𝒊𝒏𝒂𝒕𝒊𝒐𝒏 𝒇𝒐𝒓 𝒕𝒓𝒂𝒏𝒔𝒂𝒄𝒕𝒊𝒐𝒏 𝒔𝒚𝒔𝒕𝒆m** -->
 - 👨‍💻 All of my projects are available at [Github](https://github.com/SinghShreya05)
 
 - 💬 Ask me about **
   
-   **
-    PYTHON LIBRARIES AND FRAMEWORKs (PANDAS ,NUMPY , DJANGO etc..) , DSA , Advance SQl , APPLICATION DEVELOPMENT and DATA SCIENCE **
+   **Machine Learning / Stats / Deep Learning / Open-source / GSoC/ Natural Language Processing**
 
 - 📫 How to reach me **singhshreyaaa05@𝒈𝒎𝒂𝒊𝒍.𝒄𝒐𝒎**
 
@@ -126,7 +125,7 @@ I'm [Shreya Singh](https://www.linkedin.com/in/shreya-singh-83b9561a1), I love t
 
 | Linkedin | GitHub | Stackoverflow | Instagram | Twitter | Facebook |
 |-----------|-----------|-----------|-----------|-----------|-----------|
-| <p align="center"><a href="https://www.linkedin.com/in/kashishsingh20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitmaity" height="30" width="40" /></a></p> | <p align="center"> <a href="https://github.com/SinghShreya05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="_ansuman_behera_/" height="30" width="40" /></a> </p> | <p align="center"><a href="https://stackoverflow.com/users/22652093/kashish-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="_ansuman_behera_/" height="30" width="40" /></a> </p> | <p align="center"><a href="https://www.instagram.com/codewithkashish_20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ansuman_behera_/" height="30" width="40" /></a></p> |<p align="center"> <a href="https://twitter.com/isthisKashishh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ansuman_behera_/" height="30" width="40" /></a> </p>|<p align="center"> <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="_ansuman_behera_/" height="30" width="40" /></a></p> |
+| <p align="center"><a href="https://www.linkedin.com/in/shreyasingh05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amitmaity" height="30" width="40" /></a></p> | <p align="center"> <a href="https://github.com/SinghShreya05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="_ansuman_behera_/" height="30" width="40" /></a> </p> | <p align="center"><a href="https://stackoverflow.com/users/22652093/kashish-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="_ansuman_behera_/" height="30" width="40" /></a> </p> | <p align="center"><a href="https://www.instagram.com/heyahhshreya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ansuman_behera_/" height="30" width="40" /></a></p> |<p align="center"> <a href="https://twitter.com/regulamahila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ansuman_behera_/" height="30" width="40" /></a> </p>|<p align="center"> <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="_ansuman_behera_/" height="30" width="40" /></a></p> |
    
 <br>
 
